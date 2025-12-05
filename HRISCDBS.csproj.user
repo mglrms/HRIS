@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ApplicationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeCreateEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeModule\EmployeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeModule\FormEmployeeAttendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeModule\FormEmployeeDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeModule\FormEmployeeLeave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormApplicantRecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAttendanceMonitoring.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDB_BackupRestore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEmployeeRecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLeave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLoginCredentials.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLogTrail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GenerateSanctions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RequirementsModule\FormRequirmentsRecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LogInCredentialsEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Module\LeaveEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RequirementsModule\RequirementEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RequirementsModule\RequirementsPreview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Status.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
